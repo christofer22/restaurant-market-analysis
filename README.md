@@ -1,6 +1,7 @@
 
-
-![Dashboard](image/dashboard-miami.png)
+<p align="center">
+  <img src="image/dashboard-miami.png" width="800"/>
+</p>
 
 ## 🚀 Live Dashboard
 👉 **[Click here to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNmNTU4NTMtZTAxZi00Y2Q3LWFmYjktMzI4MTg2Yzc2MGQxIiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9)**
