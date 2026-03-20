@@ -1,43 +1,58 @@
+
+
 ![Dashboard](image/dashboard-miami.png)
 
 ## 🚀 Live Dashboard
-
 👉 **[Click here to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNmNTU4NTMtZTAxZi00Y2Q3LWFmYjktMzI4MTg2Yzc2MGQxIiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9)**
 
-# 🍽️ Restaurant Market Analysis – Miami
+# 🍽️ Restaurant Market Analysis – Miami | Power BI Dashboard
 
-## 📊 Project Overview
-
-This project analyzes restaurant market data in Miami to identify business opportunities, competition, and demand patterns.
+## 📊 Tools & Skills
+Power BI • Data Analysis • Market Research • Data Visualization • Business Intelligence
 
 ---
 
-## 🧠 Business Problem
+## 📌 Project Overview
 
-Understanding where to open a restaurant and what type of business has higher success probability.
+This project analyzes restaurant market data in Miami to identify business opportunities, customer behavior patterns, and competitive positioning.
+
+The goal is to support entrepreneurs and investors in making data-driven decisions when launching a restaurant.
+
+---
+
+## 🎯 Business Problem
+
+Choosing the right type of restaurant and location is critical for success.  
+This project answers:
+
+- Which restaurant categories have the highest demand?
+- Where are the best locations to open a business?
+- What factors influence customer acceptance and participation?
 
 ---
 
 ## 📈 Key Insights
 
-- Identified high-demand restaurant categories
-- Analyzed customer acceptance and participation levels
-- Detected geographic clusters of popular businesses
+- High-demand categories such as bars and casual dining dominate specific zones
+- Customer acceptance is strongly linked to location and price range
+- Clear geographic clusters reveal business opportunities
 
 ---
 
 ## 🛠️ Tools Used
 
-- Power BI  
-- Data Visualization  
-- Market Analysis  
----
+- Power BI
+- Data Visualization
+- Market Analysis
+- Data Cleaning & Transformation
 
+---
 
 ## 🚀 Outcome
 
-This analysis provides insights for entrepreneurs to make data-driven decisions when launching a restaurant business.
+This analysis provides actionable insights that help reduce risk when opening a restaurant and improve strategic decision-making.
 
+---
 
 ## 💡 Business Value
 
@@ -45,8 +60,5 @@ This project helps entrepreneurs and investors:
 
 - Identify high-demand restaurant categories  
 - Understand customer behavior patterns  
-- Make data-driven decisions when opening a business  
-
-
-
-
+- Select optimal business locations  
+- Make data-driven decisions  
